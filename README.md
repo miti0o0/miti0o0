@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,premiere,ae&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,premiere,ae,discord&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -37,10 +37,10 @@
 
 ---
 
-### 🏆 Trophies
+### 📈 Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miti0o0&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miti0o0&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -58,3 +58,8 @@
 
 > 💬 Feel free to add me on Discord (**miti0oman**) or drop me an email — always open to talk projects, FiveM work, or programming opportunities!
 
+---
+
+<p align="center">
+  <em>"Code it, edit it, ship it."</em>
+</p>
