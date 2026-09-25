@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Mitko Totev 👋</h1>
 
 <p align="center">
-  <em>Programmer • FiveM Developer • Video Editor</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Programmer+%7C+FiveM+Developer;Video+Editor+%7C+2.5M%2B+Views;Learning+Python+%26+Web+Dev" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MitkoTotev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=miti0o0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -24,17 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,premiere,ae,discord&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -47,23 +37,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MitkoTotev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MitkoTotev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=miti0o0&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact Me
 
 <p align="left">
-  <!-- Replace # with your actual links -->
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/miti0oman" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-miti0oman-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:miti0o.edit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-miti0o.edit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+> 💬 Feel free to add me on Discord (**miti0oman**) or drop me an email — always open to talk projects, FiveM work, or programming opportunities!
+
+---
+
+<p align="center">
+  <em>"Code it, edit it, ship it."</em>
 </p>
