@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Mitko Totev 👋</h1>
 
+<h3 align="center">💻 PROGRAMMER — Lua · Python · Web Development</h3>
+
 <p align="center">
-  <b>Programmer</b> focused on Lua, Python &amp; Web Development — also a FiveM developer and video editor.
+  <img src="https://img.shields.io/badge/Programmer-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FiveM%20Developer-F40552?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Video%20Editor-D14836?style=for-the-badge" />
 </p>
 
 <p align="center">
