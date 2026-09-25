@@ -37,11 +37,12 @@
 
 ---
 
-### 📈 Activity
+### ⚡ Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miti0o0&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
+- 🌍 Based in Bulgaria, working with clients internationally
+- 🎥 My edits have racked up over **2.5 million views**
+- 🧩 I enjoy both the creative side (video/design) and the technical side (code) of a project
+- ☕ Usually coding or editing late at night
 
 ---
 
