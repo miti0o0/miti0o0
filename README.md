@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,premiere,ae,discord&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,python,premiere,ae&theme=dark" alt="Skills" />
 </p>
 
 ---
