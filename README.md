@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mitko Totev 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Programmer+%7C+FiveM+Developer;Video+Editor+%7C+2.5M%2B+Views;Learning+Python+%26+Web+Dev" alt="Typing SVG" />
+  <b>Programmer</b> focused on Lua, Python &amp; Web Development — also a FiveM developer and video editor.
 </p>
 
 <p align="center">
@@ -58,3 +58,9 @@
 </p>
 
 > 💬 Feel free to add me on Discord (**miti0oman**) or drop me an email — always open to talk projects, FiveM work, or programming opportunities!
+
+---
+
+<p align="center">
+  <em>"Code it, edit it, ship it."</em>
+</p>
