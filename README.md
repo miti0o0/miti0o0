@@ -58,9 +58,3 @@
 </p>
 
 > 💬 Feel free to add me on Discord (**miti0oman**) or drop me an email — always open to talk projects, FiveM work, or programming opportunities!
-
----
-
-<p align="center">
-  <em>"Code it, edit it, ship it."</em>
-</p>
